@@ -61,8 +61,11 @@ button:hover {
     text-decoration:none;
   }
   
+
   .topmenu:hover {
     color: white;
+     font-weight:bolder;
+     text-decoration:underline;
   }
   
   #topdiv {
